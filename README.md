@@ -2,6 +2,6 @@
 
 - Modern Design Using HTML & CSS
 
-### :star: [Demo](https://fakestandard.github.io/ui-coffee-shop-login-form/)
+### :star: [Demo](https://fakestandard.github.io/ui-flipping-credit-card/)
 
 ![COVER](./preview.png)
